@@ -4,7 +4,7 @@
       "title": "Contacts API",
       "description": "Contacts API"
     },
-    "host": "https://cse341-project1-m6xr.onrender.com",
+    "host": "cse341-project1-m6xr.onrender.com",
     "schemes": [
       "https"
     ]
@@ -15,7 +15,7 @@
     "title": "Contacts API",
       "description": "Contacts API"
   },
-  "host": "https://cse341-project1-m6xr.onrender.com",
+  "host": "cse341-project1-m6xr.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
