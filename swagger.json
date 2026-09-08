@@ -4,9 +4,8 @@
       "title": "Contacts API",
       "description": "Contacts API"
     },
-    "host": "localhost:3000",
+    "host": "https://cse341-project1-m6xr.onrender.com",
     "schemes": [
-      "http",
       "https"
     ]
   },
