@@ -12,13 +12,13 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "REST API",
-    "description": ""
+    "title": "Contacts API",
+      "description": "Contacts API"
   },
-  "host": "localhost:3000",
+  "host": "https://cse341-project1-m6xr.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/": {
